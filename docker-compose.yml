@@ -1,0 +1,10 @@
+version: '3.5'
+
+services:
+  vuejs:
+    container_name: vuejs
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - "80:8080"
