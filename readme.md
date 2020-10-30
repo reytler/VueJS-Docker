@@ -4,7 +4,7 @@
 ![Ontech Assessoria](http://ontechti.com.br/images/logo.png)
 **Initiative:** [Ontech Assessoria](http://ontechti.com.br/)
 
-**Colaborador:** 
+**Collaborator:** 
 >**Reytler Souza**
 
 > To make life easier for those who develop applications with vueJS.
