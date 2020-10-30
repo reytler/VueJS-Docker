@@ -15,3 +15,5 @@
 >3. Vuex
 
 > To use, just use the command "docker-compose up -d" in the root directory and access: http://localhost .
+
+> Note: The changes made with the container in operation, will be applied normally and updated with the "hot reload".
